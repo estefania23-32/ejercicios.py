@@ -1,1 +1,1 @@
-# ejercicios.py
+# python
